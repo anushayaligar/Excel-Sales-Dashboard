@@ -27,5 +27,7 @@ To analyze business performance and identify high-performing and low-profit area
 
 ## 🔹 Files
 - Excel Dashboard (.xlsx)
-- Dataset file 
-- Dashboard Screenshot
+Dashboard Screenshot
+   <img width="1185" height="873" alt="image" src="https://github.com/user-attachments/assets/142ce6f9-0722-4bb8-af65-a472c508397c" />
+
+
